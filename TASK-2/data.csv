@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,discount,customer_age,customer_location,target_column
+2001,Smartwatch,Electronics,250,18,5,29,Seattle,1
+2002,Air Fryer,Kitchenware,150,25,10,42,Chicago,0
+2003,Bookshelf,Furniture,200,12,15,35,Boston,0
+2004,Tablet,Electronics,450,28,8,31,New York,1
+2005,Microwave,Home Appliances,180,14,12,47,California,1
+2006,Vacuum Cleaner,Home Appliances,300,16,20,50,Texas,0
+2007,Speaker,Electronics,220,33,7,26,Florida,1
+2008,Bed Frame,Furniture,400,6,18,39,Chicago,0
+2009,Toaster,Kitchenware,70,40,10,24,New York,1
+2010,Camera,Electronics,500,20,15,30,California,1
